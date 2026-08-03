@@ -104,24 +104,41 @@ The daily task writes the new mp3 into this folder, but it can't push to GitHub 
 (that would mean handling your credentials). Add a tiny job on your Mac that publishes
 a few minutes after the episode is built:
 
+`publish.sh` in this folder does the commit-and-push. Register it with launchd to run at 8:15:
+
 ```bash
 cat > ~/Library/LaunchAgents/com.aaryan.podcastpush.plist <<'PLIST'
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0"><dict>
-  <key>Label</key><string>com.aaryan.podcastpush</string>
-  <key>ProgramArguments</key><array>
-    <string>/bin/bash</string><string>-lc</string>
-    <string>cd ~/Downloads/Everyday\ podcast && git add -A && git commit -m "episode $(date +%F)" && git push</string>
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.aaryan.podcastpush</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/bash</string>
+    <string>/Users/aaryan/Downloads/Everyday podcast/publish.sh</string>
   </array>
-  <key>StartCalendarInterval</key><dict><key>Hour</key><integer>8</integer><key>Minute</key><integer>15</integer></dict>
-</dict></plist>
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Hour</key><integer>8</integer>
+    <key>Minute</key><integer>15</integer>
+  </dict>
+</dict>
+</plist>
 PLIST
 launchctl load ~/Library/LaunchAgents/com.aaryan.podcastpush.plist
 ```
 
-Alternative if you'd rather not touch launchd: open GitHub Desktop each morning and hit
-"Push origin" — about two seconds of effort.
+The logic lives in `publish.sh` rather than inline in the plist because `&&` contains `&`,
+which is a reserved character in XML and makes the plist fail to parse.
+
+`publish.sh` writes to `publish.log` (gitignored) so you can see what happened on any given
+morning. It exits quietly when there's nothing new, and sets an explicit PATH because
+launchd runs with a minimal environment that wouldn't otherwise find `git`.
+
+Alternative if you'd rather not touch launchd: run `bash ~/Downloads/Everyday\ podcast/publish.sh`
+whenever you want to publish, or open GitHub Desktop and hit "Push origin".
 
 ---
 
