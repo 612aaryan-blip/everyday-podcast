@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>Teach Me One Thing</title>
+<description>A five-minute lesson on one interesting thing, every weekday morning.</description>
+<link>https://612aaryan-blip.github.io/everyday-podcast/</link>
+<language>en-us</language>
+<lastBuildDate>Mon, 03 Aug 2026 22:45:27 +0000</lastBuildDate>
+<itunes:author>Aaryan</itunes:author>
+<itunes:summary>A five-minute lesson on one interesting thing, every weekday morning.</itunes:summary>
+<itunes:explicit>false</itunes:explicit>
+<itunes:category text="Education"/>
+<itunes:image href="https://612aaryan-blip.github.io/everyday-podcast/cover.jpg"/>
+<atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://612aaryan-blip.github.io/everyday-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Why your GPS needs Einstein</title>
+<description>GPS satellite clocks are built deliberately wrong so relativity makes them right.</description>
+<enclosure url="https://612aaryan-blip.github.io/everyday-podcast/episodes/2026-08-03.mp3" length="2544960" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-08-03.mp3</guid>
+<pubDate>Mon, 03 Aug 2026 22:34:20 +0000</pubDate>
+<itunes:duration>5:18</itunes:duration>
+<itunes:episode>1</itunes:episode>
+</item>
+</channel>
+</rss>
