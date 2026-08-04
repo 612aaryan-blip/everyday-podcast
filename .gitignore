@@ -1,3 +1,5 @@
 today.txt
 __pycache__/
 publish.log
+com.aaryan.podcastpush.plist
+launchd.*.log

@@ -1,13 +1,14 @@
 #!/bin/bash
 # Publishes the morning's episode to GitHub Pages.
-# Run by the com.aaryan.podcastpush launchd job at 8:15 daily.
+# Run hourly by the com.aaryan.podcastpush launchd job.
+# Lives outside ~/Downloads: TCC blocks LaunchAgents from protected folders.
 
-cd "$HOME/Downloads/Everyday podcast" || exit 1
+cd "$HOME/Everyday podcast" || exit 1
 
 # launchd runs with a minimal PATH; make sure git and gh are findable
 export PATH="/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:$PATH"
 
-LOG="$HOME/Downloads/Everyday podcast/publish.log"
+LOG="$HOME/Everyday podcast/publish.log"
 echo "=== $(date) ===" >> "$LOG"
 
 git add -A >> "$LOG" 2>&1
