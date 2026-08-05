@@ -20,5 +20,16 @@
     "duration_hhmmss": "4:59",
     "words": 761,
     "pubdate_iso": "2026-08-04T13:03:36.046497+00:00"
+  },
+  {
+    "number": 3,
+    "title": "Why the microwave doesn't heat by resonance",
+    "summary": "A microwave doesn't resonate water molecules; it twists them billions of times a second and the internal friction is the heat.",
+    "filename": "2026-08-05.mp3",
+    "bytes": 2411328,
+    "duration_seconds": 301,
+    "duration_hhmmss": "5:01",
+    "words": 772,
+    "pubdate_iso": "2026-08-05T19:00:45.385463+00:00"
   }
 ]
