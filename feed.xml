@@ -5,13 +5,22 @@
 <description>A five-minute lesson on one interesting thing, every weekday morning.</description>
 <link>https://612aaryan-blip.github.io/everyday-podcast/</link>
 <language>en-us</language>
-<lastBuildDate>Wed, 05 Aug 2026 19:00:45 +0000</lastBuildDate>
+<lastBuildDate>Thu, 06 Aug 2026 13:04:52 +0000</lastBuildDate>
 <itunes:author>Aaryan</itunes:author>
 <itunes:summary>A five-minute lesson on one interesting thing, every weekday morning.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:category text="Education"/>
 <itunes:image href="https://612aaryan-blip.github.io/everyday-podcast/cover.jpg"/>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://612aaryan-blip.github.io/everyday-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Why a bicycle stays up</title>
+<description>The gyroscope explanation for bicycle stability is wrong, and the real answer is one condition that several different mechanisms can satisfy.</description>
+<enclosure url="https://612aaryan-blip.github.io/everyday-podcast/episodes/2026-08-06.mp3" length="2495808" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-08-06.mp3</guid>
+<pubDate>Thu, 06 Aug 2026 13:04:52 +0000</pubDate>
+<itunes:duration>5:11</itunes:duration>
+<itunes:episode>4</itunes:episode>
+</item>
 <item>
 <title>Why the microwave doesn't heat by resonance</title>
 <description>A microwave doesn't resonate water molecules; it twists them billions of times a second and the internal friction is the heat.</description>

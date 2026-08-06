@@ -31,5 +31,16 @@
     "duration_hhmmss": "5:01",
     "words": 772,
     "pubdate_iso": "2026-08-05T19:00:45.385463+00:00"
+  },
+  {
+    "number": 4,
+    "title": "Why a bicycle stays up",
+    "summary": "The gyroscope explanation for bicycle stability is wrong, and the real answer is one condition that several different mechanisms can satisfy.",
+    "filename": "2026-08-06.mp3",
+    "bytes": 2495808,
+    "duration_seconds": 311,
+    "duration_hhmmss": "5:11",
+    "words": 779,
+    "pubdate_iso": "2026-08-06T13:04:52.280627+00:00"
   }
 ]
