@@ -137,6 +137,60 @@ which is a reserved character in XML and makes the plist fail to parse.
 morning. It exits quietly when there's nothing new, and sets an explicit PATH because
 launchd runs with a minimal environment that wouldn't otherwise find `git`.
 
+### Publishing is verified, not assumed
+
+**Pushing is not publishing.** On 2026-08-06 the push succeeded and the log said
+`published, exit 0`, but the GitHub Pages *deploy* job afterwards died with
+`Timeout reached, aborting!`. The commit was on `main`, the episode was in the repo, and
+the phone served a day-old feed for nine hours with nothing anywhere reporting a problem.
+
+So `publish.sh` now confirms the episode is actually being served before it calls the job
+done. After pushing it polls the live `feed.xml` (cache-busted, so it reads Pages rather
+than a stale CDN copy) for up to ten minutes, looking for today's filename. If it never
+shows up, it pushes an empty commit to retrigger the Pages deploy and polls again. If
+*that* fails it writes a loud `ERROR` to the log and fires a macOS notification.
+
+The important part is what happens on an ordinary hourly run with nothing new to publish.
+It doesn't just exit — it checks the live feed first. A stuck deploy therefore gets
+noticed and retried within the hour, unattended, which is exactly the case that went
+undetected before.
+
+It also fails fast rather than waiting ten minutes when the problem is local: an empty or
+missing `episodes.json`, a `feed.xml` that doesn't reference the newest episode, or a
+manifest entry whose mp3 is missing from disk. The expected filename is read from
+`episodes.json`, not from `ls episodes/`, because the feed is generated from the manifest —
+a stray mp3 that never made it into the manifest would otherwise be something the script
+waits forever to see go live.
+
+### Keeping the deploy artifact small
+
+The Pages deploy artifact contains every mp3 in the repo and grows ~2.5 MB/day. A bigger
+artifact means a slower deploy and more timeout risk, so `publish.sh` runs
+`prune_episodes.py` first, which caps the feed at the most recent `KEEP_EPISODES` (default
+60, about 150 MB). It deletes the old mp3s, trims `episodes.json`, and rewrites `feed.xml`
+so it never points at a file that no longer exists. It exits without touching anything when
+there's nothing to prune — rewriting `feed.xml` stamps a fresh `lastBuildDate` and would
+otherwise create a pointless commit every hour.
+
+Lower the cap by editing `KEEP_EPISODES` at the top of `publish.sh`.
+
+### When the episode isn't on your phone
+
+Work down the chain — each step tells you which half of the problem to look at:
+
+1. **Is it in the repo?** `git log --oneline -3` should show today's `Episode <date>` commit.
+   If not, the build or the push failed; check `publish.log`.
+2. **Is Pages serving it?**
+   `curl -s https://612aaryan-blip.github.io/everyday-podcast/feed.xml | grep <date>`
+   Empty output means the repo is fine but the deploy didn't land.
+3. **Did the deploy fail?** github.com/612aaryan-blip/everyday-podcast/actions — look at
+   the latest `pages-build-deployment`. `build` green + `deploy` red is the 2026-08-06
+   failure. Fix: **Re-run jobs**, or just wait for the next hourly `publish.sh`, which now
+   retriggers on its own.
+4. **Only then suspect the app.** If the live feed has the episode but your phone doesn't,
+   it's client-side caching — pull down to refresh on the show page. Shows added by URL
+   aren't in Apple's index, so they refresh on the app's own lazy schedule.
+
 Alternative if you'd rather not touch launchd: run `bash ~/Downloads/Everyday\ podcast/publish.sh`
 whenever you want to publish, or open GitHub Desktop and hit "Push origin".
 
