@@ -147,6 +147,25 @@ usually one you already have.
   strictly better than once daily: a late episode publishes within the hour instead of
   waiting a full day, and retries become free. Add `RunAtLoad` to catch up after the Mac
   has been off.
+- **Nothing fires while the Mac is asleep.** This is the single biggest cause of a missing
+  episode, and it is not a bug in anything you wrote. launchd does not run jobs during
+  sleep; it coalesces every missed `StartInterval` into one run on wake. The 2026-08-07
+  gap is visible in `publish.log` as a 20-hour jump from 21:12 to 17:25 the next day. The
+  Cowork scheduled task that *writes* the episode has the same constraint, and that is the
+  worse half: a missed push self-heals within the hour, a missed build means there is no
+  episode to push. Fix by making the Mac wake itself before the build:
+
+  ```bash
+  sudo pmset repeat wakeorpoweron MTWRFSU 07:15:00   # every day; verify with: pmset -g sched
+  ```
+
+  Day codes are `M T W R F S U`, with `R` for Thursday and `U` for Sunday. Wake an hour
+  before the 08:02 build rather than ten minutes before, so the hourly publish timer
+  restarts at 07:15 and its next tick at ~08:15 catches the finished episode. Waking at
+  07:50 pushes that tick to 08:50 and the episode sits built-but-unpublished for most of
+  an hour. Caveats: sleep, don't shut down — powering on from off stops at the FileVault
+  login screen where no user agents run. Keep it on AC for reliable lid-closed wake. And
+  the Claude desktop app has to be running, since it is what fires the build task.
 
 ### Sandboxes and mounted folders
 
@@ -300,4 +319,4 @@ stale news feed is worse than a stale explainer feed.
 
 ---
 
-*Last updated 2026-08-06, after the first production failure and the fix.*
+*Last updated 2026-08-09, after tracing missing episodes to Mac sleep.*
