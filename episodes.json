@@ -42,5 +42,16 @@
     "duration_hhmmss": "5:11",
     "words": 779,
     "pubdate_iso": "2026-08-06T13:04:52.280627+00:00"
+  },
+  {
+    "number": 5,
+    "title": "The machine that seems to break physics",
+    "summary": "A heat pump gives out three or four times the energy it uses because it moves heat instead of making it, and your refrigerator is the same machine pointed the other way.",
+    "filename": "2026-08-09.mp3",
+    "bytes": 2382144,
+    "duration_seconds": 297,
+    "duration_hhmmss": "4:57",
+    "words": 771,
+    "pubdate_iso": "2026-08-09T13:12:52.268321+00:00"
   }
 ]

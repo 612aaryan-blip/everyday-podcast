@@ -5,13 +5,22 @@
 <description>A five-minute lesson on one interesting thing, every weekday morning.</description>
 <link>https://612aaryan-blip.github.io/everyday-podcast/</link>
 <language>en-us</language>
-<lastBuildDate>Thu, 06 Aug 2026 13:04:52 +0000</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 13:12:52 +0000</lastBuildDate>
 <itunes:author>Aaryan</itunes:author>
 <itunes:summary>A five-minute lesson on one interesting thing, every weekday morning.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:category text="Education"/>
 <itunes:image href="https://612aaryan-blip.github.io/everyday-podcast/cover.jpg"/>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://612aaryan-blip.github.io/everyday-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>The machine that seems to break physics</title>
+<description>A heat pump gives out three or four times the energy it uses because it moves heat instead of making it, and your refrigerator is the same machine pointed the other way.</description>
+<enclosure url="https://612aaryan-blip.github.io/everyday-podcast/episodes/2026-08-09.mp3" length="2382144" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-08-09.mp3</guid>
+<pubDate>Sun, 09 Aug 2026 13:12:52 +0000</pubDate>
+<itunes:duration>4:57</itunes:duration>
+<itunes:episode>5</itunes:episode>
+</item>
 <item>
 <title>Why a bicycle stays up</title>
 <description>The gyroscope explanation for bicycle stability is wrong, and the real answer is one condition that several different mechanisms can satisfy.</description>
