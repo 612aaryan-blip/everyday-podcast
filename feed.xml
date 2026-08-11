@@ -5,13 +5,22 @@
 <description>A five-minute lesson on one interesting thing, every weekday morning.</description>
 <link>https://612aaryan-blip.github.io/everyday-podcast/</link>
 <language>en-us</language>
-<lastBuildDate>Mon, 10 Aug 2026 13:04:03 +0000</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2026 13:04:08 +0000</lastBuildDate>
 <itunes:author>Aaryan</itunes:author>
 <itunes:summary>A five-minute lesson on one interesting thing, every weekday morning.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:category text="Education"/>
 <itunes:image href="https://612aaryan-blip.github.io/everyday-podcast/cover.jpg"/>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://612aaryan-blip.github.io/everyday-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Half of you was made in a factory</title>
+<description>About half the nitrogen atoms in your body came out of an industrial reactor, because life cannot break the bond that locks nitrogen in the air.</description>
+<enclosure url="https://612aaryan-blip.github.io/everyday-podcast/episodes/2026-08-11.mp3" length="2350080" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-08-11.mp3</guid>
+<pubDate>Tue, 11 Aug 2026 13:04:08 +0000</pubDate>
+<itunes:duration>4:53</itunes:duration>
+<itunes:episode>7</itunes:episode>
+</item>
 <item>
 <title>How a tree beats the best pump on Earth</title>
 <description>Suction cannot lift water past ten meters, yet a redwood raises it a hundred, using stretched water under negative pressure pulled by evaporating leaves.</description>
