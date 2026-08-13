@@ -5,13 +5,22 @@
 <description>A five-minute lesson on one interesting thing, every weekday morning.</description>
 <link>https://612aaryan-blip.github.io/everyday-podcast/</link>
 <language>en-us</language>
-<lastBuildDate>Wed, 12 Aug 2026 13:04:51 +0000</lastBuildDate>
+<lastBuildDate>Thu, 13 Aug 2026 13:04:20 +0000</lastBuildDate>
 <itunes:author>Aaryan</itunes:author>
 <itunes:summary>A five-minute lesson on one interesting thing, every weekday morning.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:category text="Education"/>
 <itunes:image href="https://612aaryan-blip.github.io/everyday-podcast/cover.jpg"/>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://612aaryan-blip.github.io/everyday-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Why ice is slippery</title>
+<description>The pressure melting story you were taught is wrong; ice is slippery because its top few molecular layers are already liquid before you touch them.</description>
+<enclosure url="https://612aaryan-blip.github.io/everyday-podcast/episodes/2026-08-13.mp3" length="2468160" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-08-13.mp3</guid>
+<pubDate>Thu, 13 Aug 2026 13:04:20 +0000</pubDate>
+<itunes:duration>5:08</itunes:duration>
+<itunes:episode>9</itunes:episode>
+</item>
 <item>
 <title>The metal that was worth more than gold</title>
 <description>Aluminum is the most common metal in the crust, but it stayed invisible for all of human history because its grip on oxygen could only be broken by electricity.</description>
