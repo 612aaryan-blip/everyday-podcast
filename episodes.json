@@ -97,5 +97,16 @@
     "duration_hhmmss": "5:08",
     "words": 780,
     "pubdate_iso": "2026-08-13T13:04:20.237872+00:00"
+  },
+  {
+    "number": 10,
+    "title": "Why the sun is a terrible furnace",
+    "summary": "The core of the sun makes less heat per cubic meter than your own body, and that feebleness is exactly why life had time to happen.",
+    "filename": "2026-08-14.mp3",
+    "bytes": 2486016,
+    "duration_seconds": 310,
+    "duration_hhmmss": "5:10",
+    "words": 776,
+    "pubdate_iso": "2026-08-14T13:04:19.246606+00:00"
   }
 ]
