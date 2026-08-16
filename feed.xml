@@ -5,13 +5,22 @@
 <description>A five-minute lesson on one interesting thing, every weekday morning.</description>
 <link>https://612aaryan-blip.github.io/everyday-podcast/</link>
 <language>en-us</language>
-<lastBuildDate>Sat, 15 Aug 2026 13:04:05 +0000</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 13:03:43 +0000</lastBuildDate>
 <itunes:author>Aaryan</itunes:author>
 <itunes:summary>A five-minute lesson on one interesting thing, every weekday morning.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:category text="Education"/>
 <itunes:image href="https://612aaryan-blip.github.io/everyday-podcast/cover.jpg"/>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://612aaryan-blip.github.io/everyday-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Why glass is transparent</title>
+<description>Glass lets light through not because it has gaps, but because its electrons cannot absorb the energy visible light carries.</description>
+<enclosure url="https://612aaryan-blip.github.io/everyday-podcast/episodes/2026-08-16.mp3" length="2367168" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-08-16.mp3</guid>
+<pubDate>Sun, 16 Aug 2026 13:03:43 +0000</pubDate>
+<itunes:duration>4:55</itunes:duration>
+<itunes:episode>12</itunes:episode>
+</item>
 <item>
 <title>The invention is in the corners</title>
 <description>Shipping got cheap not because ships got faster but because a standardized steel box cut the cost of touching cargo by ninety seven percent.</description>

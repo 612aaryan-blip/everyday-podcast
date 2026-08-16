@@ -119,5 +119,16 @@
     "duration_hhmmss": "5:01",
     "words": 778,
     "pubdate_iso": "2026-08-15T13:04:05.672563+00:00"
+  },
+  {
+    "number": 12,
+    "title": "Why glass is transparent",
+    "summary": "Glass lets light through not because it has gaps, but because its electrons cannot absorb the energy visible light carries.",
+    "filename": "2026-08-16.mp3",
+    "bytes": 2367168,
+    "duration_seconds": 295,
+    "duration_hhmmss": "4:55",
+    "words": 770,
+    "pubdate_iso": "2026-08-16T13:03:43.738054+00:00"
   }
 ]
