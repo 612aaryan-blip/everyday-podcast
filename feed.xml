@@ -5,13 +5,22 @@
 <description>A five-minute lesson on one interesting thing, every weekday morning.</description>
 <link>https://612aaryan-blip.github.io/everyday-podcast/</link>
 <language>en-us</language>
-<lastBuildDate>Tue, 18 Aug 2026 13:03:59 +0000</lastBuildDate>
+<lastBuildDate>Wed, 19 Aug 2026 13:04:30 +0000</lastBuildDate>
 <itunes:author>Aaryan</itunes:author>
 <itunes:summary>A five-minute lesson on one interesting thing, every weekday morning.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:category text="Education"/>
 <itunes:image href="https://612aaryan-blip.github.io/everyday-podcast/cover.jpg"/>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://612aaryan-blip.github.io/everyday-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>The spring made of chaos</title>
+<description>A rubber band pulls back not because its bonds are stretched, but because tangled is overwhelmingly more likely than straight.</description>
+<enclosure url="https://612aaryan-blip.github.io/everyday-podcast/episodes/2026-08-19.mp3" length="2451840" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-08-19.mp3</guid>
+<pubDate>Wed, 19 Aug 2026 13:04:30 +0000</pubDate>
+<itunes:duration>5:06</itunes:duration>
+<itunes:episode>15</itunes:episode>
+</item>
 <item>
 <title>Why your rice cooker has no timer</title>
 <description>A cheap rice cooker has no thermometer and no timer, yet it never overcooks rice, and the reason is a magnet tuned to give up three degrees above boiling.</description>
