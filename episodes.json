@@ -174,5 +174,16 @@
     "duration_hhmmss": "4:58",
     "words": 777,
     "pubdate_iso": "2026-08-20T13:04:34.253098+00:00"
+  },
+  {
+    "number": 17,
+    "title": "Stale bread is not dry bread",
+    "summary": "Bread goes stale because its starch quietly recrystallizes, not because it loses water, which is why the fridge is the worst place for a loaf and a hot oven genuinely undoes it.",
+    "filename": "2026-08-21.mp3",
+    "bytes": 2532480,
+    "duration_seconds": 316,
+    "duration_hhmmss": "5:16",
+    "words": 771,
+    "pubdate_iso": "2026-08-21T13:04:01.483071+00:00"
   }
 ]
