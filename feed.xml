@@ -5,13 +5,22 @@
 <description>A five-minute lesson on one interesting thing, every weekday morning.</description>
 <link>https://612aaryan-blip.github.io/everyday-podcast/</link>
 <language>en-us</language>
-<lastBuildDate>Fri, 21 Aug 2026 13:04:01 +0000</lastBuildDate>
+<lastBuildDate>Sat, 22 Aug 2026 13:04:04 +0000</lastBuildDate>
 <itunes:author>Aaryan</itunes:author>
 <itunes:summary>A five-minute lesson on one interesting thing, every weekday morning.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:category text="Education"/>
 <itunes:image href="https://612aaryan-blip.github.io/everyday-podcast/cover.jpg"/>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://612aaryan-blip.github.io/everyday-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>You breathe your fat away</title>
+<description>Most of the fat you lose leaves your body as carbon dioxide through your lungs, because atoms have to go somewhere.</description>
+<enclosure url="https://612aaryan-blip.github.io/everyday-podcast/episodes/2026-08-22.mp3" length="2370432" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-08-22.mp3</guid>
+<pubDate>Sat, 22 Aug 2026 13:04:04 +0000</pubDate>
+<itunes:duration>4:56</itunes:duration>
+<itunes:episode>18</itunes:episode>
+</item>
 <item>
 <title>Stale bread is not dry bread</title>
 <description>Bread goes stale because its starch quietly recrystallizes, not because it loses water, which is why the fridge is the worst place for a loaf and a hot oven genuinely undoes it.</description>
