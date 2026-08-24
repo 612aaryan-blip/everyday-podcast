@@ -207,5 +207,16 @@
     "duration_hhmmss": "5:23",
     "words": 772,
     "pubdate_iso": "2026-08-23T13:03:42.854732+00:00"
+  },
+  {
+    "number": 20,
+    "title": "The blue light wearing a costume",
+    "summary": "There is no such thing as a white LED, and the blue one underneath it took thirty years because it only works by being badly made.",
+    "filename": "2026-08-24.mp3",
+    "bytes": 2489280,
+    "duration_seconds": 311,
+    "duration_hhmmss": "5:11",
+    "words": 778,
+    "pubdate_iso": "2026-08-24T13:03:57.658314+00:00"
   }
 ]
