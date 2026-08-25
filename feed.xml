@@ -5,13 +5,22 @@
 <description>A five-minute lesson on one interesting thing, every weekday morning.</description>
 <link>https://612aaryan-blip.github.io/everyday-podcast/</link>
 <language>en-us</language>
-<lastBuildDate>Mon, 24 Aug 2026 13:03:57 +0000</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 13:04:23 +0000</lastBuildDate>
 <itunes:author>Aaryan</itunes:author>
 <itunes:summary>A five-minute lesson on one interesting thing, every weekday morning.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:category text="Education"/>
 <itunes:image href="https://612aaryan-blip.github.io/everyday-podcast/cover.jpg"/>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://612aaryan-blip.github.io/everyday-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>The little hole in the airplane window</title>
+<description>That tiny hole in the cabin window deliberately hands the entire pressure load to one pane, and the window's rounded shape was paid for in the nineteen fifties.</description>
+<enclosure url="https://612aaryan-blip.github.io/everyday-podcast/episodes/2026-08-25.mp3" length="2447616" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-08-25.mp3</guid>
+<pubDate>Tue, 25 Aug 2026 13:04:23 +0000</pubDate>
+<itunes:duration>5:05</itunes:duration>
+<itunes:episode>21</itunes:episode>
+</item>
 <item>
 <title>The blue light wearing a costume</title>
 <description>There is no such thing as a white LED, and the blue one underneath it took thirty years because it only works by being badly made.</description>
