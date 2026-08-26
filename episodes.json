@@ -229,5 +229,16 @@
     "duration_hhmmss": "5:05",
     "words": 771,
     "pubdate_iso": "2026-08-25T13:04:23.777169+00:00"
+  },
+  {
+    "number": 22,
+    "title": "Why the night carries sound",
+    "summary": "Sound does not just spread and fade, it steers: cold air near the ground at night bends distant sound back down to you, and the same physics once hid an entire battle from an army four miles away.",
+    "filename": "2026-08-26.mp3",
+    "bytes": 2368320,
+    "duration_seconds": 296,
+    "duration_hhmmss": "4:56",
+    "words": 775,
+    "pubdate_iso": "2026-08-26T13:04:42.172088+00:00"
   }
 ]
