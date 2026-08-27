@@ -5,13 +5,22 @@
 <description>A five-minute lesson on one interesting thing, every weekday morning.</description>
 <link>https://612aaryan-blip.github.io/everyday-podcast/</link>
 <language>en-us</language>
-<lastBuildDate>Wed, 26 Aug 2026 13:04:42 +0000</lastBuildDate>
+<lastBuildDate>Thu, 27 Aug 2026 13:04:45 +0000</lastBuildDate>
 <itunes:author>Aaryan</itunes:author>
 <itunes:summary>A five-minute lesson on one interesting thing, every weekday morning.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:category text="Education"/>
 <itunes:image href="https://612aaryan-blip.github.io/everyday-podcast/cover.jpg"/>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://612aaryan-blip.github.io/everyday-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>The bass note that isn't there</title>
+<description>The lowest note in a voice or a song is often not in the air at all; your brain rebuilds it from the spacing of the harmonics, which is why phone calls and coin sized speakers work.</description>
+<enclosure url="https://612aaryan-blip.github.io/everyday-podcast/episodes/2026-08-27.mp3" length="2363904" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-08-27.mp3</guid>
+<pubDate>Thu, 27 Aug 2026 13:04:45 +0000</pubDate>
+<itunes:duration>4:55</itunes:duration>
+<itunes:episode>23</itunes:episode>
+</item>
 <item>
 <title>Why the night carries sound</title>
 <description>Sound does not just spread and fade, it steers: cold air near the ground at night bends distant sound back down to you, and the same physics once hid an entire battle from an army four miles away.</description>

@@ -240,5 +240,16 @@
     "duration_hhmmss": "4:56",
     "words": 775,
     "pubdate_iso": "2026-08-26T13:04:42.172088+00:00"
+  },
+  {
+    "number": 23,
+    "title": "The bass note that isn't there",
+    "summary": "The lowest note in a voice or a song is often not in the air at all; your brain rebuilds it from the spacing of the harmonics, which is why phone calls and coin sized speakers work.",
+    "filename": "2026-08-27.mp3",
+    "bytes": 2363904,
+    "duration_seconds": 295,
+    "duration_hhmmss": "4:55",
+    "words": 770,
+    "pubdate_iso": "2026-08-27T13:04:45.450583+00:00"
   }
 ]
