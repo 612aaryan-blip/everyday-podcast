@@ -251,5 +251,16 @@
     "duration_hhmmss": "4:55",
     "words": 770,
     "pubdate_iso": "2026-08-27T13:04:45.450583+00:00"
+  },
+  {
+    "number": 24,
+    "title": "The brakes that turn on when everything breaks",
+    "summary": "Air pressure does not apply a train or truck brake, it holds the brake off, so the moment the system fails the brakes slam on by themselves.",
+    "filename": "2026-08-28.mp3",
+    "bytes": 2334336,
+    "duration_seconds": 291,
+    "duration_hhmmss": "4:51",
+    "words": 779,
+    "pubdate_iso": "2026-08-28T13:04:08.472711+00:00"
   }
 ]
