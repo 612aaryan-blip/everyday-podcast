@@ -5,13 +5,22 @@
 <description>A five-minute lesson on one interesting thing, every weekday morning.</description>
 <link>https://612aaryan-blip.github.io/everyday-podcast/</link>
 <language>en-us</language>
-<lastBuildDate>Fri, 28 Aug 2026 13:04:08 +0000</lastBuildDate>
+<lastBuildDate>Sat, 29 Aug 2026 13:04:14 +0000</lastBuildDate>
 <itunes:author>Aaryan</itunes:author>
 <itunes:summary>A five-minute lesson on one interesting thing, every weekday morning.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:category text="Education"/>
 <itunes:image href="https://612aaryan-blip.github.io/everyday-podcast/cover.jpg"/>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://612aaryan-blip.github.io/everyday-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Why a sailboat beats the wind</title>
+<description>A sail is a wing, a keel is a wing, and a boat gets squeezed forward between two fluids.</description>
+<enclosure url="https://612aaryan-blip.github.io/everyday-podcast/episodes/2026-08-29.mp3" length="2336256" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-08-29.mp3</guid>
+<pubDate>Sat, 29 Aug 2026 13:04:14 +0000</pubDate>
+<itunes:duration>4:52</itunes:duration>
+<itunes:episode>25</itunes:episode>
+</item>
 <item>
 <title>The brakes that turn on when everything breaks</title>
 <description>Air pressure does not apply a train or truck brake, it holds the brake off, so the moment the system fails the brakes slam on by themselves.</description>
