@@ -273,5 +273,16 @@
     "duration_hhmmss": "4:52",
     "words": 773,
     "pubdate_iso": "2026-08-29T13:04:14.963607+00:00"
+  },
+  {
+    "number": 26,
+    "title": "The sand you cannot build with",
+    "summary": "Deserts are full of sand that is useless for concrete, because wind polishes every grain into a sphere and cement needs corners to grip.",
+    "filename": "2026-08-30.mp3",
+    "bytes": 2436096,
+    "duration_seconds": 304,
+    "duration_hhmmss": "5:04",
+    "words": 771,
+    "pubdate_iso": "2026-08-30T13:03:55.234877+00:00"
   }
 ]
