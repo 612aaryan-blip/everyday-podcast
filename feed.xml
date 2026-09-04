@@ -5,13 +5,22 @@
 <description>A five-minute lesson on one interesting thing, every weekday morning.</description>
 <link>https://612aaryan-blip.github.io/everyday-podcast/</link>
 <language>en-us</language>
-<lastBuildDate>Sun, 30 Aug 2026 13:03:55 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 13:04:09 +0000</lastBuildDate>
 <itunes:author>Aaryan</itunes:author>
 <itunes:summary>A five-minute lesson on one interesting thing, every weekday morning.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:category text="Education"/>
 <itunes:image href="https://612aaryan-blip.github.io/everyday-podcast/cover.jpg"/>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://612aaryan-blip.github.io/everyday-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>The flywheel the size of a continent</title>
+<description>The power grid stores almost no energy, so the frequency in your wall is a live readout of whether the whole continent is making more power than it is using.</description>
+<enclosure url="https://612aaryan-blip.github.io/everyday-podcast/episodes/2026-09-04.mp3" length="2444544" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-09-04.mp3</guid>
+<pubDate>Fri, 04 Sep 2026 13:04:09 +0000</pubDate>
+<itunes:duration>5:05</itunes:duration>
+<itunes:episode>27</itunes:episode>
+</item>
 <item>
 <title>The sand you cannot build with</title>
 <description>Deserts are full of sand that is useless for concrete, because wind polishes every grain into a sphere and cement needs corners to grip.</description>

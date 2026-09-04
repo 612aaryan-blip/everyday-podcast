@@ -284,5 +284,16 @@
     "duration_hhmmss": "5:04",
     "words": 771,
     "pubdate_iso": "2026-08-30T13:03:55.234877+00:00"
+  },
+  {
+    "number": 27,
+    "title": "The flywheel the size of a continent",
+    "summary": "The power grid stores almost no energy, so the frequency in your wall is a live readout of whether the whole continent is making more power than it is using.",
+    "filename": "2026-09-04.mp3",
+    "bytes": 2444544,
+    "duration_seconds": 305,
+    "duration_hhmmss": "5:05",
+    "words": 751,
+    "pubdate_iso": "2026-09-04T13:04:09.371870+00:00"
   }
 ]
