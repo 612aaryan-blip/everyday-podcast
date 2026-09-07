@@ -317,5 +317,16 @@
     "duration_hhmmss": "4:54",
     "words": 777,
     "pubdate_iso": "2026-09-06T13:03:27.078524+00:00"
+  },
+  {
+    "number": 30,
+    "title": "The digit that shows up too often",
+    "summary": "In real world data the leading digit is a one about thirty percent of the time, because the world multiplies instead of adding, and auditors use that to spot invented numbers.",
+    "filename": "2026-09-07.mp3",
+    "bytes": 2408640,
+    "duration_seconds": 301,
+    "duration_hhmmss": "5:01",
+    "words": 774,
+    "pubdate_iso": "2026-09-07T14:00:16.875971+00:00"
   }
 ]
