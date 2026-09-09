@@ -328,5 +328,16 @@
     "duration_hhmmss": "5:01",
     "words": 774,
     "pubdate_iso": "2026-09-07T14:00:16.875971+00:00"
+  },
+  {
+    "number": 31,
+    "title": "The lightning goes up",
+    "summary": "The bright flash in a lightning strike travels from the ground into the cloud, and the sky and the earth build the channel together.",
+    "filename": "2026-09-08.mp3",
+    "bytes": 2398080,
+    "duration_seconds": 299,
+    "duration_hhmmss": "4:59",
+    "words": 778,
+    "pubdate_iso": "2026-09-08T13:45:26.721452+00:00"
   }
 ]

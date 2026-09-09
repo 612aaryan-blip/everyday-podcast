@@ -5,13 +5,22 @@
 <description>A five-minute lesson on one interesting thing, every weekday morning.</description>
 <link>https://612aaryan-blip.github.io/everyday-podcast/</link>
 <language>en-us</language>
-<lastBuildDate>Mon, 07 Sep 2026 14:00:16 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 13:45:26 +0000</lastBuildDate>
 <itunes:author>Aaryan</itunes:author>
 <itunes:summary>A five-minute lesson on one interesting thing, every weekday morning.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:category text="Education"/>
 <itunes:image href="https://612aaryan-blip.github.io/everyday-podcast/cover.jpg"/>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://612aaryan-blip.github.io/everyday-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>The lightning goes up</title>
+<description>The bright flash in a lightning strike travels from the ground into the cloud, and the sky and the earth build the channel together.</description>
+<enclosure url="https://612aaryan-blip.github.io/everyday-podcast/episodes/2026-09-08.mp3" length="2398080" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-09-08.mp3</guid>
+<pubDate>Tue, 08 Sep 2026 13:45:26 +0000</pubDate>
+<itunes:duration>4:59</itunes:duration>
+<itunes:episode>31</itunes:episode>
+</item>
 <item>
 <title>The digit that shows up too often</title>
 <description>In real world data the leading digit is a one about thirty percent of the time, because the world multiplies instead of adding, and auditors use that to spot invented numbers.</description>
