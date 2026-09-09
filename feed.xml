@@ -5,13 +5,22 @@
 <description>A five-minute lesson on one interesting thing, every weekday morning.</description>
 <link>https://612aaryan-blip.github.io/everyday-podcast/</link>
 <language>en-us</language>
-<lastBuildDate>Tue, 08 Sep 2026 13:45:26 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 13:35:39 +0000</lastBuildDate>
 <itunes:author>Aaryan</itunes:author>
 <itunes:summary>A five-minute lesson on one interesting thing, every weekday morning.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:category text="Education"/>
 <itunes:image href="https://612aaryan-blip.github.io/everyday-podcast/cover.jpg"/>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://612aaryan-blip.github.io/everyday-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>The lock picks itself</title>
+<description>A pin tumbler lock has one hundred thousand combinations on paper, but manufacturing tolerances make its pins give way one at a time, turning the secret into five easy questions.</description>
+<enclosure url="https://612aaryan-blip.github.io/everyday-podcast/episodes/2026-09-09.mp3" length="2358144" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-09-09.mp3</guid>
+<pubDate>Wed, 09 Sep 2026 13:35:39 +0000</pubDate>
+<itunes:duration>4:54</itunes:duration>
+<itunes:episode>32</itunes:episode>
+</item>
 <item>
 <title>The lightning goes up</title>
 <description>The bright flash in a lightning strike travels from the ground into the cloud, and the sky and the earth build the channel together.</description>

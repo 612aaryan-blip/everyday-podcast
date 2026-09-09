@@ -339,5 +339,16 @@
     "duration_hhmmss": "4:59",
     "words": 778,
     "pubdate_iso": "2026-09-08T13:45:26.721452+00:00"
+  },
+  {
+    "number": 32,
+    "title": "The lock picks itself",
+    "summary": "A pin tumbler lock has one hundred thousand combinations on paper, but manufacturing tolerances make its pins give way one at a time, turning the secret into five easy questions.",
+    "filename": "2026-09-09.mp3",
+    "bytes": 2358144,
+    "duration_seconds": 294,
+    "duration_hhmmss": "4:54",
+    "words": 777,
+    "pubdate_iso": "2026-09-09T13:35:39.974844+00:00"
   }
 ]
