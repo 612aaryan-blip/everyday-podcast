@@ -3,3 +3,6 @@ __pycache__/
 publish.log
 com.aaryan.podcastpush.plist
 launchd.*.log
+.parts/
+.chunkbuild.py
+.finish.py

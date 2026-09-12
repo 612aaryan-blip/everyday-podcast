@@ -350,5 +350,16 @@
     "duration_hhmmss": "4:54",
     "words": 777,
     "pubdate_iso": "2026-09-09T13:35:39.974844+00:00"
+  },
+  {
+    "number": 33,
+    "title": "The ant that counts its steps",
+    "summary": "A desert ant navigates a featureless salt pan by tallying its own strides, and an experiment with tiny stilts proved it.",
+    "filename": "2026-09-12.mp3",
+    "bytes": 2467584,
+    "duration_seconds": 308,
+    "duration_hhmmss": "5:08",
+    "words": 779,
+    "pubdate_iso": "2026-09-12T14:51:45.550201+00:00"
   }
 ]
