@@ -361,5 +361,16 @@
     "duration_hhmmss": "5:08",
     "words": 779,
     "pubdate_iso": "2026-09-12T14:51:45.550201+00:00"
+  },
+  {
+    "number": 34,
+    "title": "The squeak and the earthquake",
+    "summary": "A violin note, a creaking hinge and an earthquake are all the same mechanism: friction that grips harder standing still than sliding.",
+    "filename": "2026-09-13.mp3",
+    "bytes": 2323776,
+    "duration_seconds": 290,
+    "duration_hhmmss": "4:50",
+    "words": 773,
+    "pubdate_iso": "2026-09-13T13:05:23.567946+00:00"
   }
 ]
