@@ -372,5 +372,16 @@
     "duration_hhmmss": "4:50",
     "words": 773,
     "pubdate_iso": "2026-09-13T13:05:23.567946+00:00"
+  },
+  {
+    "number": 35,
+    "title": "The scratch that doesn't matter",
+    "summary": "Why a scratched disc still plays perfectly: data stored as points on a curve, and damage deliberately spread thin.",
+    "filename": "2026-09-14.mp3",
+    "bytes": 2449344,
+    "duration_seconds": 306,
+    "duration_hhmmss": "5:06",
+    "words": 770,
+    "pubdate_iso": "2026-09-14T13:38:01.447349+00:00"
   }
 ]
