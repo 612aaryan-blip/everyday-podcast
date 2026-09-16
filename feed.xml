@@ -5,13 +5,22 @@
 <description>A five-minute lesson on one interesting thing, every weekday morning.</description>
 <link>https://612aaryan-blip.github.io/everyday-podcast/</link>
 <language>en-us</language>
-<lastBuildDate>Tue, 15 Sep 2026 14:50:15 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 15:21:47 +0000</lastBuildDate>
 <itunes:author>Aaryan</itunes:author>
 <itunes:summary>A five-minute lesson on one interesting thing, every weekday morning.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:category text="Education"/>
 <itunes:image href="https://612aaryan-blip.github.io/everyday-podcast/cover.jpg"/>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://612aaryan-blip.github.io/everyday-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>The silence made of sound</title>
+<description>Noise cancelling headphones do not block noise, they add the exact opposite wave, and the ninety microsecond race against the speed of sound is why the engine drone dies but the voices survive.</description>
+<enclosure url="https://612aaryan-blip.github.io/everyday-podcast/episodes/2026-09-16.mp3" length="2452800" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-09-16.mp3</guid>
+<pubDate>Wed, 16 Sep 2026 15:21:47 +0000</pubDate>
+<itunes:duration>5:06</itunes:duration>
+<itunes:episode>37</itunes:episode>
+</item>
 <item>
 <title>The engine quits and the rotor keeps spinning</title>
 <description>Why a helicopter with a dead engine glides down and lands gently, and why being low is far more dangerous than being high.</description>

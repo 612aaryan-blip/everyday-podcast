@@ -394,5 +394,16 @@
     "duration_hhmmss": "4:59",
     "words": 777,
     "pubdate_iso": "2026-09-15T14:50:15.316238+00:00"
+  },
+  {
+    "number": 37,
+    "title": "The silence made of sound",
+    "summary": "Noise cancelling headphones do not block noise, they add the exact opposite wave, and the ninety microsecond race against the speed of sound is why the engine drone dies but the voices survive.",
+    "filename": "2026-09-16.mp3",
+    "bytes": 2452800,
+    "duration_seconds": 306,
+    "duration_hhmmss": "5:06",
+    "words": 774,
+    "pubdate_iso": "2026-09-16T15:21:47.148950+00:00"
   }
 ]
