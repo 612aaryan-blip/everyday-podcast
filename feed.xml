@@ -5,13 +5,22 @@
 <description>A five-minute lesson on one interesting thing, every weekday morning.</description>
 <link>https://612aaryan-blip.github.io/everyday-podcast/</link>
 <language>en-us</language>
-<lastBuildDate>Mon, 14 Sep 2026 13:38:01 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 14:50:15 +0000</lastBuildDate>
 <itunes:author>Aaryan</itunes:author>
 <itunes:summary>A five-minute lesson on one interesting thing, every weekday morning.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:category text="Education"/>
 <itunes:image href="https://612aaryan-blip.github.io/everyday-podcast/cover.jpg"/>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://612aaryan-blip.github.io/everyday-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>The engine quits and the rotor keeps spinning</title>
+<description>Why a helicopter with a dead engine glides down and lands gently, and why being low is far more dangerous than being high.</description>
+<enclosure url="https://612aaryan-blip.github.io/everyday-podcast/episodes/2026-09-15.mp3" length="2392896" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-09-15.mp3</guid>
+<pubDate>Tue, 15 Sep 2026 14:50:15 +0000</pubDate>
+<itunes:duration>4:59</itunes:duration>
+<itunes:episode>36</itunes:episode>
+</item>
 <item>
 <title>The scratch that doesn't matter</title>
 <description>Why a scratched disc still plays perfectly: data stored as points on a curve, and damage deliberately spread thin.</description>
