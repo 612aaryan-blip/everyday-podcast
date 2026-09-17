@@ -405,5 +405,16 @@
     "duration_hhmmss": "5:06",
     "words": 774,
     "pubdate_iso": "2026-09-16T15:21:47.148950+00:00"
+  },
+  {
+    "number": 38,
+    "title": "The cat that turns without spinning",
+    "summary": "A falling cat rights itself with zero angular momentum the whole way down, and the shape-changing trick it uses is the same one astronauts and fuel-free satellites rely on.",
+    "filename": "2026-09-17.mp3",
+    "bytes": 2357760,
+    "duration_seconds": 294,
+    "duration_hhmmss": "4:54",
+    "words": 778,
+    "pubdate_iso": "2026-09-17T16:54:37.616371+00:00"
   }
 ]

@@ -5,13 +5,22 @@
 <description>A five-minute lesson on one interesting thing, every weekday morning.</description>
 <link>https://612aaryan-blip.github.io/everyday-podcast/</link>
 <language>en-us</language>
-<lastBuildDate>Wed, 16 Sep 2026 15:21:47 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 16:54:37 +0000</lastBuildDate>
 <itunes:author>Aaryan</itunes:author>
 <itunes:summary>A five-minute lesson on one interesting thing, every weekday morning.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:category text="Education"/>
 <itunes:image href="https://612aaryan-blip.github.io/everyday-podcast/cover.jpg"/>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://612aaryan-blip.github.io/everyday-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>The cat that turns without spinning</title>
+<description>A falling cat rights itself with zero angular momentum the whole way down, and the shape-changing trick it uses is the same one astronauts and fuel-free satellites rely on.</description>
+<enclosure url="https://612aaryan-blip.github.io/everyday-podcast/episodes/2026-09-17.mp3" length="2357760" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-09-17.mp3</guid>
+<pubDate>Thu, 17 Sep 2026 16:54:37 +0000</pubDate>
+<itunes:duration>4:54</itunes:duration>
+<itunes:episode>38</itunes:episode>
+</item>
 <item>
 <title>The silence made of sound</title>
 <description>Noise cancelling headphones do not block noise, they add the exact opposite wave, and the ninety microsecond race against the speed of sound is why the engine drone dies but the voices survive.</description>
