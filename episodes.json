@@ -427,5 +427,16 @@
     "duration_hhmmss": "4:47",
     "words": 778,
     "pubdate_iso": "2026-09-18T13:07:59.103852+00:00"
+  },
+  {
+    "number": 40,
+    "title": "The reactor nobody built",
+    "summary": "Two billion years ago a uranium seam in Gabon went critical on its own, breathed in half hour pulses for two hundred thousand years, and left its waste sitting exactly where it was made.",
+    "filename": "2026-09-19.mp3",
+    "bytes": 2485824,
+    "duration_seconds": 310,
+    "duration_hhmmss": "5:10",
+    "words": 774,
+    "pubdate_iso": "2026-09-19T13:04:17.532434+00:00"
   }
 ]

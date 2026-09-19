@@ -5,13 +5,22 @@
 <description>A five-minute lesson on one interesting thing, every weekday morning.</description>
 <link>https://612aaryan-blip.github.io/everyday-podcast/</link>
 <language>en-us</language>
-<lastBuildDate>Fri, 18 Sep 2026 13:07:59 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 13:04:17 +0000</lastBuildDate>
 <itunes:author>Aaryan</itunes:author>
 <itunes:summary>A five-minute lesson on one interesting thing, every weekday morning.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:category text="Education"/>
 <itunes:image href="https://612aaryan-blip.github.io/everyday-podcast/cover.jpg"/>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://612aaryan-blip.github.io/everyday-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>The reactor nobody built</title>
+<description>Two billion years ago a uranium seam in Gabon went critical on its own, breathed in half hour pulses for two hundred thousand years, and left its waste sitting exactly where it was made.</description>
+<enclosure url="https://612aaryan-blip.github.io/everyday-podcast/episodes/2026-09-19.mp3" length="2485824" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-09-19.mp3</guid>
+<pubDate>Sat, 19 Sep 2026 13:04:17 +0000</pubDate>
+<itunes:duration>5:10</itunes:duration>
+<itunes:episode>40</itunes:episode>
+</item>
 <item>
 <title>The jumper who goes under the bar</title>
 <description>A high jumper's center of mass passes below the bar, and the technique that exploits it only became possible when foam landing pits replaced sand.</description>
