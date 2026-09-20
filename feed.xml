@@ -5,13 +5,22 @@
 <description>A five-minute lesson on one interesting thing, every weekday morning.</description>
 <link>https://612aaryan-blip.github.io/everyday-podcast/</link>
 <language>en-us</language>
-<lastBuildDate>Sat, 19 Sep 2026 13:04:17 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 13:04:41 +0000</lastBuildDate>
 <itunes:author>Aaryan</itunes:author>
 <itunes:summary>A five-minute lesson on one interesting thing, every weekday morning.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:category text="Education"/>
 <itunes:image href="https://612aaryan-blip.github.io/everyday-podcast/cover.jpg"/>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://612aaryan-blip.github.io/everyday-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>What the dark sky is telling you</title>
+<description>If the universe were infinite and eternal, the whole night sky would blaze like the surface of a star; its darkness is evidence the universe had a beginning.</description>
+<enclosure url="https://612aaryan-blip.github.io/everyday-podcast/episodes/2026-09-20.mp3" length="2366592" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-09-20.mp3</guid>
+<pubDate>Sun, 20 Sep 2026 13:04:41 +0000</pubDate>
+<itunes:duration>4:55</itunes:duration>
+<itunes:episode>41</itunes:episode>
+</item>
 <item>
 <title>The reactor nobody built</title>
 <description>Two billion years ago a uranium seam in Gabon went critical on its own, breathed in half hour pulses for two hundred thousand years, and left its waste sitting exactly where it was made.</description>
