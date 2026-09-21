@@ -5,13 +5,22 @@
 <description>A five-minute lesson on one interesting thing, every weekday morning.</description>
 <link>https://612aaryan-blip.github.io/everyday-podcast/</link>
 <language>en-us</language>
-<lastBuildDate>Sun, 20 Sep 2026 13:04:41 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 13:04:53 +0000</lastBuildDate>
 <itunes:author>Aaryan</itunes:author>
 <itunes:summary>A five-minute lesson on one interesting thing, every weekday morning.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:category text="Education"/>
 <itunes:image href="https://612aaryan-blip.github.io/everyday-podcast/cover.jpg"/>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://612aaryan-blip.github.io/everyday-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>The piano is out of tune on purpose</title>
+<description>Why every piano is deliberately mistuned, and why the mathematically correct one sounds wrong.</description>
+<enclosure url="https://612aaryan-blip.github.io/everyday-podcast/episodes/2026-09-21.mp3" length="2425728" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-09-21.mp3</guid>
+<pubDate>Mon, 21 Sep 2026 13:04:53 +0000</pubDate>
+<itunes:duration>5:03</itunes:duration>
+<itunes:episode>42</itunes:episode>
+</item>
 <item>
 <title>What the dark sky is telling you</title>
 <description>If the universe were infinite and eternal, the whole night sky would blaze like the surface of a star; its darkness is evidence the universe had a beginning.</description>

@@ -449,5 +449,16 @@
     "duration_hhmmss": "4:55",
     "words": 770,
     "pubdate_iso": "2026-09-20T13:04:41.055341+00:00"
+  },
+  {
+    "number": 42,
+    "title": "The piano is out of tune on purpose",
+    "summary": "Why every piano is deliberately mistuned, and why the mathematically correct one sounds wrong.",
+    "filename": "2026-09-21.mp3",
+    "bytes": 2425728,
+    "duration_seconds": 303,
+    "duration_hhmmss": "5:03",
+    "words": 775,
+    "pubdate_iso": "2026-09-21T13:04:53.561528+00:00"
   }
 ]
