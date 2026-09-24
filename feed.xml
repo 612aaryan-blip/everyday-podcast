@@ -5,13 +5,22 @@
 <description>A five-minute lesson on one interesting thing, every weekday morning.</description>
 <link>https://612aaryan-blip.github.io/everyday-podcast/</link>
 <language>en-us</language>
-<lastBuildDate>Tue, 22 Sep 2026 13:10:59 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 23:08:46 +0000</lastBuildDate>
 <itunes:author>Aaryan</itunes:author>
 <itunes:summary>A five-minute lesson on one interesting thing, every weekday morning.</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
 <itunes:category text="Education"/>
 <itunes:image href="https://612aaryan-blip.github.io/everyday-podcast/cover.jpg"/>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://612aaryan-blip.github.io/everyday-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>The Rock That Counts Itself</title>
+<description>A quartz watch keeps near perfect time because engineers picked a crystal that vibrates exactly two to the fifteenth times a second.</description>
+<enclosure url="https://612aaryan-blip.github.io/everyday-podcast/episodes/2026-09-23.mp3" length="2514048" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-09-23.mp3</guid>
+<pubDate>Wed, 23 Sep 2026 23:08:46 +0000</pubDate>
+<itunes:duration>5:14</itunes:duration>
+<itunes:episode>44</itunes:episode>
+</item>
 <item>
 <title>The Ring in Your Coffee Mug</title>
 <description>Why a drying drop of coffee, wine, or blood always leaves its particles in a ring at the edge, and how changing particle shape can stop it.</description>

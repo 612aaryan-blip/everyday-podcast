@@ -471,5 +471,16 @@
     "duration_hhmmss": "4:54",
     "words": 761,
     "pubdate_iso": "2026-09-22T13:10:59.331171+00:00"
+  },
+  {
+    "number": 44,
+    "title": "The Rock That Counts Itself",
+    "summary": "A quartz watch keeps near perfect time because engineers picked a crystal that vibrates exactly two to the fifteenth times a second.",
+    "filename": "2026-09-23.mp3",
+    "bytes": 2514048,
+    "duration_seconds": 314,
+    "duration_hhmmss": "5:14",
+    "words": 780,
+    "pubdate_iso": "2026-09-23T23:08:46.824376+00:00"
   }
 ]
